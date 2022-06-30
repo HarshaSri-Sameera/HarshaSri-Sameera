@@ -20,4 +20,4 @@
   
 -----------------------------
 
-![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=tokyonight)
+![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=dark)
