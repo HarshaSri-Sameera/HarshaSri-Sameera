@@ -5,7 +5,7 @@
 ###### About Me
 <div align="center">
 🎓 Studying Computer Science Engineering at AEC.<br>
-🌱 Exploring and absorbing new tech and developing software solutions.<br>
+🌱 Exploring and absorbing new tech and developing softwares.<br>
 😎 Rubicks Cuber ~ Teakwondo Player🥋 ~ Problem Slover ~ Thinker <br>
 🔬 Exicted to work in Research and Development fields🤍 <br>
 🤩 Interested in Developement and Innovation, full stack web dev. <br>
