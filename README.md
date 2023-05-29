@@ -39,8 +39,8 @@ function Darkfire(props){
       city: "Kakinada",
       country: "India"
     }
-    Sports = {
-      martial arts: "Taekwondo",
+    sports = {
+      martialArts: "Taekwondo",
       indoor: "Rubick's Cubes"
     }
   } = props;
