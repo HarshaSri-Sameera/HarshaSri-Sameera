@@ -76,10 +76,13 @@ function Darkfire(props){
 
 export default Darkfire;
 ```
+
 <div align="center">
-	![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=tokyonight) 
-</div>
 	
+![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=tokyonight) 
+	
+</div>
+
 <img src="https://camo.githubusercontent.com/3c6c60b27c5b25b5bd818fdbedca1e9d63caa1f0c69f8a9e830c58190f40396b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76486b704b7643656d4655436c6a646937622f67697068792e676966" width="340" height="200"/>
 
 
@@ -122,6 +125,3 @@ export default Darkfire;
   
 -----------------------------
  -->
-
-
-
