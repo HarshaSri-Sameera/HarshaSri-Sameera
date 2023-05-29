@@ -1,6 +1,6 @@
-# I'm darkfire, Sameera <img src="https://media.tenor.com/m1WLq0zS4i0AAAAC/blueorredpill-doesthematrixhaveyou.gif" width="90" height="50"/>
+# I'm darkfire, Sameera <img src="https://media.tenor.com/m1WLq0zS4i0AAAAC/blueorredpill-doesthematrixhaveyou.gif" width="100" height="65"/>
 
-<img src="https://media.tenor.com/SS2WAJxsr2gAAAAM/im-in-matrix.gif" width="340" height="200"/>
+<img src="https://media.tenor.com/SS2WAJxsr2gAAAAM/im-in-matrix.gif" width="300" height="300"/>
 
 ```JSX
 function Darkfire(props){
