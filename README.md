@@ -5,7 +5,7 @@
 ```JSX
 function Darkfire(props){
   const {
-    details: {
+    details = {
       fullName: "Harsha Sri Sameera",
       age: "20",
       education: "Bachelor of Science in Computer Science Engineering"
@@ -24,7 +24,7 @@ function Darkfire(props){
       "Java",
       "BashScripting"
     ],
-    work: {
+    work = {
       company: "Embe Home Automations",  
       position: "Full Stack Engineer"
     },
@@ -32,14 +32,14 @@ function Darkfire(props){
       "build something cool and useful",
       "to live life as I dreamt of"
     ], 
-    weakness = [
+    flaw = [
       "Stubborn heart"
     ]
-    location: {
+    location = {
       city: "Kakinada",
       country: "India"
     }
-    Sports: {
+    Sports = {
       martial arts: "Taekwondo",
       indoor: "Rubick's Cubes"
     }
