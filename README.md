@@ -81,7 +81,9 @@ export default Darkfire;
 
 <div align="center">
 	
-![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaSri-Sameera&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/HarshaSri-Sameera/github-readme-stats#gh-dark-mode-only)	
+	
+![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaSri-Sameera&show_icons=true&theme=dark) 
 	
 </div>
 
