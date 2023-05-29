@@ -85,7 +85,7 @@ export default Darkfire;
 
 <img src="https://camo.githubusercontent.com/3c6c60b27c5b25b5bd818fdbedca1e9d63caa1f0c69f8a9e830c58190f40396b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76486b704b7643656d4655436c6a646937622f67697068792e676966" width="340" height="200"/>
 
-###### A heartfelt shout-out to my amazing friend [Jiya Ull Haq](https://github.com/Jiya-Ull-Haq) for their unwavering support and encouragement throughout my coding journey. Your belief in me has been the driving force behind my growth and success. Together, we're creating something extraordinary. Thank you for being my coding companion and constant inspiration! 🙌
+###### <sub> A heartfelt shout-out to my amazing friend [Jiya Ull Haq](https://github.com/Jiya-Ull-Haq) for their unwavering support and encouragement throughout my coding journey. Your belief in me has been the driving force behind my growth and success. Together, we're creating something extraordinary. Thank you for being my coding companion and constant inspiration! 🙌 </sub>
 
 
 
