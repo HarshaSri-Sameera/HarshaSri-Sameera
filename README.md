@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/SS2WAJxsr2gAAAAM/im-in-matrix.gif" width="340" height="200"/>
 
-```JSX
+```jsx
 function Darkfire(props){
   const {
     details = {
