@@ -25,12 +25,12 @@ function Darkfire(props){
       "BashScripting"
     ],
     work = {
-      company: "Embe Home Automations",  
-      position: "Full Stack Engineer"
+      company: "Anubudh EdTech",  
+      position: "Full Stack Developer"
     },
     goals = [
       "build something cool and useful",
-      "to live life as I dreamt of"
+      "to live an adventurous life"
     ], 
     flaw = [
       "Stubborn heart"
