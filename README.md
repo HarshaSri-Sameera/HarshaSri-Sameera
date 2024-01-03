@@ -78,7 +78,7 @@ function Darkfire(props){
 export default Darkfire;
 ```
 
-<img src="https://camo.githubusercontent.com/3c6c60b27c5b25b5bd818fdbedca1e9d63caa1f0c69f8a9e830c58190f40396b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76486b704b7643656d4655436c6a646937622f67697068792e676966" width="340" height="200"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl4NXFlcWV0OTRtNHRwbjY4cXo1aXh4M2wxY3J3Z3ByenE3NmE0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vHkpKvCemFUCljdi7b/giphy.gif" width="340" height="200"/>
 
 <div align="center">
 	
